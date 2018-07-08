@@ -1,0 +1,13 @@
+//colors
+$light-blue: rgb(188, 232, 231);
+$light-blue-05: rgb(211, 239, 238);
+$blue: rgb(3, 52, 68);
+$dark-blue: rgb(1, 36, 47);
+$dark-blue-05: rgb(14, 47, 58);
+$white: #f5fcfe;
+$orange: rgb(240, 121, 64);
+$header-bg: linear-gradient(to bottom, $light-blue,  $white 40%, $white 75%, $light-blue-05);
+$footer-copyright-bg: linear-gradient(to bottom, $dark-blue, $dark-blue-05);
+$main-text: #333;
+$main-text-05: rgba(51, 51, 51, .5);
+$blue-anchor: #2980b9;
